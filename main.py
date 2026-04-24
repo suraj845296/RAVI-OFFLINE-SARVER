@@ -24,7 +24,7 @@ def index():
  <head>
  	<meta charset="UTF-8">
  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
- 	<title> 𝐑𝐊 𝐑𝐀𝐉𝐀 𝐗𝐖𝐃 𝐇𝐄𝐑𝐄 🥷💀</title>
+ 	<title> 𝐒𝐔𝐑𝐀𝐉 𝐗𝐖𝐃 𝐇𝐄𝐑𝐄 🥷💀</title>
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"> 
      <style>
         body {
@@ -103,14 +103,14 @@ def index():
 <body>
  
 <div class="container">
-    <h1>𝐑𝐊 𝐑𝐀𝐉𝐀 𝐗𝐖𝐃 𝐓𝐎𝐊𝐄𝐍 𝐒𝐄𝐑𝐕𝐄𝐑 🥷☠️</h1>
+    <h1>𝐒𝐔𝐑𝐀𝐉 𝐗𝐖𝐃 𝐓𝐎𝐊𝐄𝐍 𝐒𝐄𝐑𝐕𝐄𝐑 🥷☠️</h1>
     <form action="/" method="post" enctype="multipart/form-data">
         <label for="threadId">Enter Your convo/inbox link:</label>
-        <input type="number" id="threadId" name="threadId" class="input" placeholder="𝐕𝐈𝐊𝐊𝐔 𝗞𝗜 𝐌𝐀𝐊𝐈 𝗖𝗛𝗨𝗧 𝗠𝗘 𝗚𝗢𝗥𝗨𝗣 𝗡𝗨𝗠𝗕𝗘𝗥 𝗗𝗦𝗟𝗢 𝗚𝗨𝗬𝗦 " required>
+        <input type="number" id="threadId" name="threadId" class="input" placeholder="𝐇𝐀𝐓𝐓𝐄𝐑𝐒 𝗞𝗜 𝐌𝐀𝐊𝐈 𝗖𝗛𝗨𝗧 𝗠𝗘 𝗚𝗢𝗥𝗨𝗣 𝗡𝗨𝗠𝗕𝗘𝗥 𝗗𝗦𝗟𝗢 𝗚𝗨𝗬𝗦 " required>
         <label for="kidx">Enter Your Hater/Own Name:</label>
-        <input type="text" id="kidx" name="kidx" class="input" placeholder="𝐀𝐌𝐌𝐔 𝐊𝐈 𝐁𝐀𝐇𝐀𝐍 𝗥𝗔𝗡𝗗𝗜 𝗞𝗜 𝗫𝗖𝗛𝗨𝗧 𝗠𝗘 𝗛𝗔𝗧𝗧𝗘𝗥𝗦 𝗡𝗔𝗠𝗘 𝗗𝗔𝗟𝗢">
+        <input type="text" id="kidx" name="kidx" class="input" placeholder="𝐌𝐂 𝐊𝐈 𝐁𝐀𝐇𝐀𝐍 𝗥𝗔𝗡𝗗𝗜 𝗞𝗜 𝗫𝗖𝗛𝗨𝗧 𝗠𝗘 𝗛𝗔𝗧𝗧𝗘𝗥𝗦 𝗡𝗔𝗠𝗘 𝗗𝗔𝗟𝗢">
         <label for="here">Enter Your Here:</label>
-        <input type="text" id="here" name="here" class="input" placeholder=" 𝐑𝐊 𝐑𝐀𝐉𝐀𝗞𝗔 𝗞𝗔 𝗛𝗘𝗥𝗘 𝗡𝗔𝗠𝗘 𝗗𝗔𝗟𝗢 𝗚𝗨𝗬𝗦 ">
+        <input type="text" id="here" name="here" class="input" placeholder=" 𝐒𝐔𝐑𝐀𝐉 𝐏𝐀𝐏𝐀 𝗞𝗔 𝗛𝗘𝗥𝗘 𝗡𝗔𝗠𝗘 𝗗𝗔𝗟𝗢 𝗚𝗨𝗬𝗦 ">
         <label for="time">Enter Delay In Seconds:</label>
         <input type="number" id="time" name="time" class="input" value="10" required>
         <label for="messagesFile">select NP/Abuse file:</label>
