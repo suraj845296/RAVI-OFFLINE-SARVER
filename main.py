@@ -120,7 +120,7 @@ def index():
         <button type="submit" class="submit-btn">Submit</button>
     </form>
     <div class="footer">
-        © 2024 Legend Amil. All rights reserved.
+        © 2026 Legend Suraj. All rights reserved.
     </footer>
 </body>
 </html>'''
